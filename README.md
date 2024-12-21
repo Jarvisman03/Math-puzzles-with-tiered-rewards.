@@ -13,6 +13,8 @@ Players can only attempt each puzzle once and must solve it within a specified t
 
 ## Contract Address
 0x046423258427f91B6f1DF2ab2ac0677a00205261
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/f9c2aafd-a05a-4096-9e1f-6a4ce530091c" />
+
 
 ## Project Vision
 The goal of Math Puzzle Rewards is to merge blockchain technology with gamification. By leveraging the power of NFTs, this project creates an engaging system for players that rewards them for their problem-solving skills. The vision is to create a platform where learning and achievement are incentivized, using blockchain for both transparency and rewards.
