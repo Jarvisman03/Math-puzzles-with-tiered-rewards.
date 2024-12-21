@@ -1,6 +1,3 @@
-Here’s a `README.md` template for your project:
-
-```markdown
 # Math Puzzle Rewards
 
 ## Project Title
@@ -13,7 +10,7 @@ Players can only attempt each puzzle once and must solve it within a specified t
 
 ## Contract Address
 0x046423258427f91B6f1DF2ab2ac0677a00205261
-<img width="855" alt="image" src="https://github.com/user-attachments/assets/31c220a2-f9e7-422a-8317-45b00255a677" />
+![image](https://github.com/user-attachments/assets/b6ee936f-91cd-4cba-9a18-30fc17f752e9)
 
 
 ## Project Vision
