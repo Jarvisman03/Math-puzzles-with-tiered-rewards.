@@ -13,7 +13,7 @@ Players can only attempt each puzzle once and must solve it within a specified t
 
 ## Contract Address
 0x046423258427f91B6f1DF2ab2ac0677a00205261
-<img width="956" alt="image" src="https://github.com/user-attachments/assets/f9c2aafd-a05a-4096-9e1f-6a4ce530091c" />
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/239192b8-4d03-431f-bf70-a28cdafecb5e" />
 
 
 ## Project Vision
